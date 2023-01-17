@@ -33,7 +33,7 @@ entries = 9*[0]  # new
 ...
 def has_won(player):  # new
     print("Congrats %s's, you have won!" % seal)  # new
-
+print(hi)
 
 
 
